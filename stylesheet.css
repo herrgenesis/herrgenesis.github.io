@@ -1,0 +1,52 @@
+body {
+  background-color: #fff0f3;
+  font-family: Georgia, serif;
+  color: #5a3e3e;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #c97b9b;
+}
+
+h2 {
+  color: #a86a7a;
+}
+
+a {
+  color: #c97b9b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7a9e7e;
+}
+
+#header {
+  text-align: center;
+  padding: 40px;
+  background-color: #ffd6e0;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+#about, #favorites, #tips {
+  background-color: #ffe4ec;
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 16px;
+}
+
+.section-text {
+  font-size: 1.1em;
+  line-height: 1.8;
+}
+
+.section-image {
+  width: 250px;
+  border-radius: 12px;
+  margin: 10px 0;
+  border: 3px solid #f4a7b9;
+}

@@ -39,6 +39,12 @@ a:hover {
   margin-bottom: 16px;
 }
 
+#about {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
 .section-text {
   font-size: 1.1em;
   line-height: 1.8;

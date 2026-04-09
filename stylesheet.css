@@ -32,17 +32,21 @@ a:hover {
   margin-bottom: 20px;
 }
 
-#about, #favorites, #tips {
+#about {
   background-color: #ffe4ec;
   border-radius: 16px;
   padding: 24px;
   margin-bottom: 16px;
-}
-
-#about {
   display: flex;
   align-items: center;
   gap: 20px;
+}
+
+#favorites, #tips {
+  background-color: #ffe4ec;
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 16px;
 }
 
 .section-text {
